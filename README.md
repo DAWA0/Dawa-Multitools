@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/forks/DAWA0/Dawa-Multitools?label=Size&color=1900d4">
-<img src="https://img.shields.io/github/stars/DAWA0/Dawa-Multitools?label=Size&color=1900d4">
-<img src="https://img.shields.io/github/repo-size/DAWA0/Dawa-Multitools?label=Size&color=1900d4">
+<img src="https://img.shields.io/github/forks/DAWA0/Dawa-Multitools?label=Size&color=ff0000">
+<img src="https://img.shields.io/github/stars/DAWA0/Dawa-Multitools?label=Size&color=ff0000">
+<img src="https://img.shields.io/github/repo-size/DAWA0/Dawa-Multitools?label=Size&color=ff0000">
 
 </p>
 
