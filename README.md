@@ -1,6 +1,6 @@
 # 🚀・DawaTools
   <p align="center">
-    <a href="https://discord.gg/EwYKDdQWHY">JOIN THE DISCORD</a>
+    <a href="https://discord.gg/dawafr">JOIN THE DISCORD</a>
   </p>
 </p>
 
